@@ -1,6 +1,6 @@
 # LLM_SVs
 
-# Semantic Labelling of Structural Variants using LLM
+# Semantic Labeling of Structural Variants using LLM
 
 ## Structural variants 
 ```
